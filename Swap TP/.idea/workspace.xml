@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="randomTP:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="632e77b4-fec4-4ad3-9a1c-439d624816e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aTZOvdWlNO9Df5hNg4GoKK2tZr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../socket/testsocket.iml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="632e77b4-fec4-4ad3-9a1c-439d624816e2" name="Default Changelist" comment="" />
+      <created>1586761515830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586761515830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="71" key="#Project_Structure" timestamp="1586761894324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586761894324" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1586791182843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586791182843" />
+    <state x="848" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586761791313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="848" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1586761791313" />
+    <state x="798" y="122" key="FileChooserDialogImpl" timestamp="1586791198458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="798" y="122" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586791198458" />
+    <state x="439" y="111" key="NewModule_or_Project.wizard" timestamp="1586791177975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1586791177975" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1586764582000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586764582000" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586791367276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586791367276" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586770149890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586770149890" />
+  </component>
+</project>

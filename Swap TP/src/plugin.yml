@@ -1,0 +1,6 @@
+name: Random_Tp
+version : 1.0.0
+author: Miru Ciprian
+description:  Random tp between to players at a random interval
+main: test.randomTp.plugin.Main
+

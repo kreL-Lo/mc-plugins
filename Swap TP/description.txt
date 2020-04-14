@@ -1,0 +1,8 @@
+Inspiration : https://www.youtube.com/results?search_query=swap+location+dream
+Can be played followind the rules in the video.
+HOW IT WORKS ? 
+2 players must be on server, no more , no less (so far) 
+Tested on spigot server, may work on bukkit too
+Tested on MC Version : 1.12.2
+Swap interval : 5 min 
+HF
