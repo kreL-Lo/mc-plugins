@@ -5,4 +5,6 @@ HOW IT WORKS ?
 Tested on spigot server, may work on bukkit too
 Tested on MC Version : 1.12.2
 Swap interval : 5 min 
-HF
+Location : plugin folder
+Source code : src/java/Main.java
+HF :)
