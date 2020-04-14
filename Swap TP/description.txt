@@ -1,10 +1,11 @@
 Inspiration : https://www.youtube.com/results?search_query=swap+location+dream
 Can be played followind the rules in the video.
 HOW IT WORKS ? 
-2 players must be on server, no more , no less (so far) 
-Tested on spigot server, may work on bukkit too
+How to run : command "/run-swap" first time will turn on , second time will turn off
+In Running : after 5 min will tp all players in a different player's possition (randomly)
 Tested on MC Version : 1.12.2
 Swap interval : 5 min 
 Location : plugin folder
 Source code : src/java/Main.java
+Version : 1.0.1
 HF :)
